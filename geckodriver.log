@@ -1,0 +1,634 @@
+1576591096993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofilenH4ypw"
+1576591105623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576591105624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576591105624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576591105625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576591118332	Marionette	INFO	Listening on port 56418
+1576591118912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576591148521	Marionette	INFO	Stopped listening on port 56418
+1576591223978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofileXRX2Qy"
+1576591225953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576591225953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576591225954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576591225954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576591234675	Marionette	INFO	Listening on port 56564
+1576591234799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubs.org/watch-one-punch-man-season-2-english-dubbed line 1 > scriptElement, line 14: TypeError: $ is not a function
+[[Child 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576591439192	Marionette	INFO	Stopped listening on port 56564
+creenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576591436892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576591445881	Marionette	INFO	Listening on port 56750
+1576591445985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubs.org/watch-one-punch-man-season-2-english-dubbed line 1 > scriptElement, line 14: TypeError: $ is not a function
+1576591541023	Marionette	INFO	Stopped listening on port 56750
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5141: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNE1576591559422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576591559422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576591559423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576591559423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576591575777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-prof1576591576066	Marionette	INFO	Listening on port 56927
+[Parent 4328, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576591637053	Marionette	INFO	Stopped listening on port 56927
+s/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576591591791	Marionette	INFO	Listening on port 56969
+1576591592222	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubs.org/watch-one-punch-man-season-2-english-dubbed line 1 > scriptElement, line 14: TypeError: $ is not a function
+JavaScript error: https://c.disquscdn.com/next/embed/common.bundle.0b9bbdb3bc568241a5d1d7626947e8b0.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 5048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAD0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAD0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAD0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6096, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1576591638752	Marionette	INFO	Stopped listening on port 56969
+1576592078955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofileE25Uk9"
+1576592089233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576592089233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576592089234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576592089234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576592104339	Marionette	INFO	Listening on port 57175
+1576592104736	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubs.org/watch-one-punch-man-season-2-english-dubbed line 1 > scriptElement, line 14: TypeError: $ is not a function
+Handler function threw an exception: TypeError: timings.REQUEST_HEADER is undefined
+Stack: _setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1078:1
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1005:25
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:529:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:607:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 1078, column: 1
+console.error: (new TypeError("timings.REQUEST_HEADER is undefined", "resource://devtools/server/actors/network-monitor/network-observer.js", 1078))
+1576592279115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofileyBi63f"
+1576592282947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576592282947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576592282948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576592282948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576592293503	Marionette	INFO	Listening on port 57378
+1576592293589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubs.org/watch-one-punch-man-season-2-english-dubbed line 1 > scriptElement, line 14: TypeError: $ is not a function
+[Parent 5332, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 5332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576592966547	Marionette	INFO	Stopped listening on port 57378
+ifest: Invalid extension permission: mozillaAddons
+1576592495437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576592495438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576592495438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576592502148	Marionette	INFO	Listening on port 57547
+1576592502212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubs.org/watch-one-punch-man-season-2-english-dubbed line 1 > scriptElement, line 14: TypeError: $ is not a function
+[Parent 8072, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8072, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 7808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8072, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576592967196	Marionette	INFO	Stopped listening on port 57547
+oading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576592731757	Marionette	INFO	Listening on port 57727
+1576592732027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubs.org/watch-one-punch-man-season-2-english-dubbed line 1 > scriptElement, line 14: TypeError: $ is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubsanime.net/misc/drupal.js?pzt8ek, line 67: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/misc/ajax.js?v=7.43, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.43, line 13: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.ajax.js?pzt8ek, line 12: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.js?pzt8ek, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/disqus/disqus.js?pzt8ek, line 21: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/ajax.js?pzt8ek, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/watch-one-punch-man-season-2-episode-1-english-dubbed, line 40: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/bootstrap.js?pzt8ek, line 14: TypeError: Drupal.behaviors is undefined
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+[Parent 8000, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 8000, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript error: https://st.districtm.ca/supertag.js, line 1: TypeError: t is null
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: <SetDimensions>: Refused to create WebGL2 context because of blacklist entry: FEATURE_FAILURE_BUG_1074378_1
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create WebGL2 context because of blacklist entry: FEATURE_FAILURE_BUG_1074378_1
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://st.districtm.ca/supertag.js, line 1: TypeError: t is null
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://www.mp4upload.com/vjs/nuevo.min.js, line 1: TypeError: r is not a function
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576593455213&ver1=2.2.2&qid=230383f5530383f5434353&rnd=24zhe7jmv67u&cid=544 line 1 > eval, line 261: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576593455213&ver1=2.2.2&qid=230383f5530383f5434353&rnd=24zhe7jmv67u&cid=544 line 1 > eval, line 174: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+[Parent 8000, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 3980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1576595381008	Marionette	INFO	Stopped listening on port 57727
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5141: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+rror code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576595085553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "user-data-dir=C:\\Users\\ayieko\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofile6g7PPm"
+1576595092158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576595092158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576595092159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576595092159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576595102876	Marionette	INFO	Listening on port 56503
+1576595103349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubsanime.net/misc/drupal.js?pzt8ek, line 67: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/misc/ajax.js?v=7.43, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.43, line 13: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.ajax.js?pzt8ek, line 12: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.js?pzt8ek, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/disqus/disqus.js?pzt8ek, line 21: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/ajax.js?pzt8ek, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/watch-one-punch-man-season-2-episode-1-english-dubbed, line 40: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/bootstrap.js?pzt8ek, line 14: TypeError: Drupal.behaviors is undefined
+[Parent 8088, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 8088, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: <SetDimensions>: Refused to create WebGL2 context because of blacklist entry: FEATURE_FAILURE_BUG_1074378_1
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create WebGL2 context because of blacklist entry: FEATURE_FAILURE_BUG_1074378_1
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://st.districtm.ca/supertag.js, line 1: TypeError: t is null
+JavaScript error: https://st.districtm.ca/supertag.js, line 1: TypeError: t is null
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576595163045&ver1=2.2.2&qid=230383f5530383f5434353&rnd=4qg4ad1h5t62&cid=544 line 1 > eval, line 261: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576595163045&ver1=2.2.2&qid=230383f5530383f5434353&rnd=4qg4ad1h5t62&cid=544 line 1 > eval, line 174: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576595163097&ver1=2.2.2&qid=230383f5530383f5434353&rnd=uvc32zm80p4g&cid=544 line 1 > eval, line 261: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576595163097&ver1=2.2.2&qid=230383f5530383f5434353&rnd=uvc32zm80p4g&cid=544 line 1 > eval, line 174: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+[Parent 8088, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576595203285	Marionette	INFO	Stopped listening on port 56503
+1576595364930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofile0MiD4O"
+1576595377595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576595377596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576595377596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576595377597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576595387670	Marionette	INFO	Listening on port 64495
+1576595388187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576595403748	Marionette	INFO	Stopped listening on port 64495
+[Parent 5640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576595412312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "user-data-dir=C:\\Users\\ayieko\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\h23mmv1d.default-release" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofileumJW7g"
+1576595414156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576595414157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576595414157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576595414157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1576595427729	Marionette	INFO	Listening on port 64595
+1576595428008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubsanime.net/misc/drupal.js?pzt8ek, line 67: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/misc/ajax.js?v=7.43, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.43, line 13: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.ajax.js?pzt8ek, line 12: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.js?pzt8ek, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/disqus/disqus.js?pzt8ek, line 21: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/ajax.js?pzt8ek, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/watch-one-punch-man-season-2-episode-1-english-dubbed, line 40: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/bootstrap.js?pzt8ek, line 14: TypeError: Drupal.behaviors is undefined
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+[Parent 7700, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 7700, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: <SetDimensions>: Refused to create WebGL2 context because of blacklist entry: FEATURE_FAILURE_BUG_1074378_1
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create WebGL2 context because of blacklist entry: FEATURE_FAILURE_BUG_1074378_1
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576595481764&ver1=2.2.2&qid=230383f5530383f5434353&rnd=qt3buq3lcf5n&cid=544 line 1 > eval, line 261: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576595481764&ver1=2.2.2&qid=230383f5530383f5434353&rnd=qt3buq3lcf5n&cid=544 line 1 > eval, line 174: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://cdn.run-syndicate.com/sdk/v1/n.js, line 16: NS_ERROR_UNEXPECTED: 
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+Handler function threw an exception: TypeError: timings.REQUEST_HEADER is undefined
+Stack: _setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1078:1
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1005:25
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:529:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:607:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 1078, column: 1
+console.error: (new TypeError("timings.REQUEST_HEADER is undefined", "resource://devtools/server/actors/network-monitor/network-observer.js", 1078))
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 579"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:579:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 579, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 579: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+[Parent 7700, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 8180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1576599526198	Marionette	INFO	Stopped listening on port 64595
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5141: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+ory.
+1576599531662	Marionette	INFO	Listening on port 65053
+[Child 7684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576599532013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576599559681	Marionette	INFO	Stopped listening on port 65053
+[Parent 8064, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 1040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1576599570336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--user-data-dir=C:\\Users\\ayieko\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\h23mmv1d.default-release" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofile9BmcJk"
+1576599572075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576599572076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576599572077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576599572077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576599580408	Marionette	INFO	Listening on port 65156
+1576599580541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubsanime.net/misc/drupal.js?pzt8ek, line 67: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/misc/ajax.js?v=7.43, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.43, line 13: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.ajax.js?pzt8ek, line 12: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.js?pzt8ek, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/disqus/disqus.js?pzt8ek, line 21: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/ajax.js?pzt8ek, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/watch-one-punch-man-season-2-episode-1-english-dubbed, line 40: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/bootstrap.js?pzt8ek, line 14: TypeError: Drupal.behaviors is undefined
+[Parent 6184, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 6184, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: <SetDimensions>: Refused to create WebGL2 context because of blacklist entry: FEATURE_FAILURE_BUG_1074378_1
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create WebGL2 context because of blacklist entry: FEATURE_FAILURE_BUG_1074378_1
+JavaScript warning: https://c.adsco.re/, line 67: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://st.districtm.ca/supertag.js, line 1: TypeError: t is null
+JavaScript error: https://st.districtm.ca/supertag.js, line 1: TypeError: t is null
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576599649768&ver1=2.2.2&qid=230383f5530383f5434353&rnd=fsrcpp4fjdif&cid=544 line 1 > eval, line 261: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576599649768&ver1=2.2.2&qid=230383f5530383f5434353&rnd=fsrcpp4fjdif&cid=544 line 1 > eval, line 174: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ie8eamus.com/sfp.js, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576599685768&ver1=2.2.2&qid=230383f5530383f5434353&rnd=2rf8wrwbykgu&cid=544 line 1 > eval, line 261: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1576599685768&ver1=2.2.2&qid=230383f5530383f5434353&rnd=2rf8wrwbykgu&cid=544 line 1 > eval, line 174: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: TypeError: document.location is null
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/359724/40235100/dcm/dcmads.js, line 960: NS_ERROR_NOT_INITIALIZED: 
+[Child 4020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576599724644	Marionette	INFO	Stopped listening on port 65156
+1576599864511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofileuiLM3Q"
+1576599868373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576599868374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576599868375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576599868375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576599877838	Marionette	INFO	Listening on port 60198
+1576599878285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576599892461	Marionette	INFO	Stopped listening on port 60198
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576599902336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "user-data-dir = C:\\Users\\ayieko\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\h23mmv1d.default-release" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofilex6Yt7e"
+1576599904199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576599904200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576599904200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576599904201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576599912896	Marionette	INFO	Listening on port 60282
+1576599913359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubsanime.net/misc/drupal.js?pzt8ek, line 67: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/misc/ajax.js?v=7.43, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.43, line 13: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.ajax.js?pzt8ek, line 12: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/fivestar/js/fivestar.js?pzt8ek, line 15: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/modules/disqus/disqus.js?pzt8ek, line 21: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/misc/ajax.js?pzt8ek, line 7: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/watch-one-punch-man-season-2-episode-1-english-dubbed, line 40: ReferenceError: Drupal is not defined
+JavaScript error: http://justdubsanime.net/sites/all/themes/bootstrap/js/bootstrap.js?pzt8ek, line 14: TypeError: Drupal.behaviors is undefined
+[Parent 5872, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 5872, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Child 5784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 4056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576599950623	Marionette	INFO	Stopped listening on port 60282
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5141: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1576600473382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofile2ousdc"
+1576600479087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576600479090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576600479091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576600479091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576600495134	Marionette	INFO	Listening on port 60487
+1576600495908	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4088, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Child 8036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576600519476	Marionette	INFO	Stopped listening on port 60487
+1576600871563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofilezi6dan"
+1576600875938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576600875938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576600875939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576600875939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 3584, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1576600890376	Marionette	INFO	Listening on port 60642
+1576600890751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://justdubs.org/watch-one-punch-man-season-2-english-dubbed line 1 > scriptElement, line 14: TypeError: $ is not a function
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+[Parent 3584, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 7828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1576601832763	Marionette	INFO	Stopped listening on port 60642
+illa.org': Reading manifest: Invalid extension permission: telemetry
+1576601647665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576601647665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576601654861	Marionette	INFO	Listening on port 60930
+1576601654932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576601655475	Marionette	INFO	Stopped listening on port 60930
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+[Parent 4488, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4488, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 7528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4488, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 200: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 117: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB getLastModified() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB clear() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576601681390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ayieko\\AppData\\Local\\Temp\\rust_mozprofilebds2Jz"
+1576601683309	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+1576601684093	addons.xpi-utils	WARN	Add-on {d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d} is not correctly signed.
+1576601684094	addons.xpi-utils	WARN	Add-on {d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d} is not correctly signed.
+1576601684094	addons.xpi-utils	WARN	addMetadata: Add-on {d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d} is invalid: Error: Extension {d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d} is not correctly signed(resource://gre/modules/addons/XPIDatabase.jsm:2720:15) JS Stack trace: addMetadata@XPIDatabase.jsm:2720:15
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1576601685405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576601685405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576601685406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576601685406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576601699307	Marionette	INFO	Listening on port 60961
+[Parent 4380, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 2028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4380, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4380, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1576601833068	Marionette	INFO	Stopped listening on port 60961
+
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:215:31
+_startProvider@AddonManager.jsm:651:17
+startup@AddonManager.jsm:875:14
+startup@AddonManager.jsm:3534:26
+observe@addonManager.js:87:29
+1576601719011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576601719011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576601719012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576601719012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576601728442	Marionette	INFO	Listening on port 61013
+1576601728696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576601762576	Marionette	INFO	Stopped listening on port 61013
