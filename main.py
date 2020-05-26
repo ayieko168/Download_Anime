@@ -4,9 +4,9 @@ import os
 
 selected_url = "http://justdubs.org/watch-one-punch-man-season-2-english-dubbed"
 
-options = webdriver.ChromeOptions() 
-options.add_argument("user-data-dir=C:\\Users\\ayieko\\AppData\\Local\\Google\\Chrome\\User Data") #Path to your chrome profile
-browser = webdriver.Chrome(executable_path="C:\\webdrivers\\chromedriver.exe", chrome_options=options)
+# options = webdriver.ChromeOptions()
+# options.add_argument("user-data-dir=C:\\Users\\ayieko\\AppData\\Local\\Google\\Chrome\\User Data") #Path to your chrome profile
+browser = webdriver.Firefox(executable_path="geckodriver-v0.26.0-win64/geckodriver.exe")
 
 browser.get(selected_url)
 
